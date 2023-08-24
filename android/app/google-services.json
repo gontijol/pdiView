@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410841677094",
+    "project_id": "pdi-eyes",
+    "storage_bucket": "pdi-eyes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410841677094:android:b0013c0b079313c6e255e7",
+        "android_client_info": {
+          "package_name": "com.example.pdi_eyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410841677094-9o1r45veo9dh3rsjbln0ulbie4ap9mk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7pXnE5O4RoI2Ssbwo2gc5YrwBWOy9RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410841677094-9o1r45veo9dh3rsjbln0ulbie4ap9mk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
